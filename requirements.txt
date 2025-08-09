@@ -1,0 +1,7 @@
+cython
+pycocotools
+scipy
+opencv-python
+ftfy
+regex
+tqdm
