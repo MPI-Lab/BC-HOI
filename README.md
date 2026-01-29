@@ -1,7 +1,7 @@
 # BC-HOI
 This repository provides the code for the paper ["Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection"](https://arxiv.org/pdf/2507.06510).
 
-## Citation (引用格式)
+## Citation
 If you find this project useful in your research, please consider citing our paper:
 
 ```bibtex
