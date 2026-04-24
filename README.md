@@ -114,7 +114,7 @@ cd data/v-coco
 python vsrl_eval.py vcoco.pickle
 ```
 
-##Checkpoint
+## Checkpoint
 BC-HOI contains an opt model, resulting in a file that is too large and there are no plans to upload it at the moment
 
 ## Citation
