@@ -112,7 +112,6 @@ bash exp/eval_vcoco.sh
 
 cd data/v-coco
 python vsrl_eval.py vcoco.pickle
-
 ```
 
 ##Checkpoint
