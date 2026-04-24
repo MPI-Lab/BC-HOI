@@ -1,6 +1,8 @@
 # BC-HOI
 This repository provides the code for the paper ["Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection"](https://arxiv.org/pdf/2507.06510).
 
+![image](c3_all.png)
+
 ## Installation
 Install your Python environment (recommended version=3.8) and BLIP-2.
 ```
