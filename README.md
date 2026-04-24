@@ -89,7 +89,6 @@ for training.
 
 ```
 bash exp/train_vcoco.sh
-
 ```
 
 Firstly, you need the add the following main function to the vsrl_eval.py in data/v-coco.
@@ -115,11 +114,9 @@ cd data/v-coco
 python vsrl_eval.py vcoco.pickle
 
 ```
-## Checkpoint for HICO-DET in Close Setting
 
-
-
-
+##Checkpoint
+BC-HOI contains an opt model, resulting in a file that is too large and there are no plans to upload it at the moment
 
 ## Citation
 If you find this project useful in your research, please consider citing our paper:
